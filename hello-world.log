@@ -1,0 +1,8 @@
+13:43:21,881 DEBUG SQL:109 - 
+    insert 
+    into
+        message
+        (TEXT) 
+    values
+        (?)
+13:43:21,894 TRACE BasicBinder:81 - binding parameter [1] as [VARCHAR] - [Hello World with Hibernate as JPA Provider]
